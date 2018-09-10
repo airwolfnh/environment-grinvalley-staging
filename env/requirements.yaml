@@ -12,4 +12,4 @@ dependencies:
   version: 0.0.24
 - name: node-http4
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.11
+  version: 0.0.12
